@@ -1,16 +1,17 @@
-
-# Node_HW1 - README.md_Generator 
+function generateReadme(answers) {
+  return `
+# Node_HW1 - ${answers.projectName}
 Using Node.js, generate a template README.md file with users input to generate the README.
-s
+
         
 ## Description    
-undefined
+${answers.homeworkName}
         
 ### Station
-s
+${answers.stationName}
 
 ### Usage
-s
+${answers.usageName}
 
 ### Built With
 * [VScode](https://code.visualstudio.com/) - The editor of choice
@@ -23,13 +24,17 @@ s
 [![License: Artistic-2.0](https://img.shields.io/badge/License-Perl-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
 
 
-this has been licensed by s!
+this has been licensed by ${answers.licenseName}!
 </br> 
 
 ### Acknowledgments
-s
+${answers.ackName}
         
 ### GitHub Username
-s
+${answers.email}
 
 Copyright lans! 2021 
+`;
+}
+
+module.exports = generateReadme;
