@@ -18,7 +18,7 @@ const promptUser = () => {
     },
     {
       type: "input",
-      name: "general info",
+      name: "homeworkInfo",
       message: "What is this homework about?",
     },
     {
