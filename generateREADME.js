@@ -50,7 +50,7 @@ function generateReadme(answers) {
 * 1. Clone the repo
 
 - sh
-- git clone //:git@github.com:lando-stan/Node_HW1.git
+- git clone https//:git@github.com:lando-stan/Node_HW1.git
 - cd EDIT
 
 

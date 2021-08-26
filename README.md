@@ -23,7 +23,7 @@
 * Inquirer
         
 ### [Station]
-* Dallas, Tx
+* Dallas , Tx
 
 ### [Usage]
 * Node.js
@@ -39,7 +39,7 @@
 [![License: Artistic-2.0](https://img.shields.io/badge/License-Perl-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
 
 
-*this has been licensed by landos TM!
+*this has been licensed by LandosTM!
 </br> 
 
 ### [Acknowledgments]
@@ -49,7 +49,7 @@
 * 1. Clone the repo
 
 - sh
-- git clone //:git@github.com:lando-stan/Node_HW1.git
+- git clone https//:git@github.com:lando-stan/Node_HW1.git
 - cd EDIT
 
 
