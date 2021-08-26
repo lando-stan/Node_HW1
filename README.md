@@ -39,7 +39,7 @@
 [![License: Artistic-2.0](https://img.shields.io/badge/License-Perl-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
 
 
-*this has been licensed by LandosTM!
+*this has been licensed by LandosTM!!
 </br> 
 
 ### [Acknowledgments]
@@ -62,6 +62,6 @@
 * lando-stan
 
 ### [Preview]
-![demo](./Assets/demo1.gif)
+![demo](./assets/demo1.gif)
 
 Copyright lans! 2021 
