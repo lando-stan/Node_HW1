@@ -23,7 +23,7 @@
 * Inquirer
         
 ### [Station]
-* Dallas
+* Dallas, Tx
 
 ### [Usage]
 * Node.js
@@ -39,11 +39,11 @@
 [![License: Artistic-2.0](https://img.shields.io/badge/License-Perl-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
 
 
-*this has been licensed by landosss!
+*this has been licensed by landos TM!
 </br> 
 
 ### [Acknowledgments]
-* lando-stan
+* Me
 
 ### [Installation]
 * 1. Clone the repo
@@ -61,6 +61,7 @@
 ### [GitHub Username]
 * lando-stan
 
-### [Preview](assets/demo1.gif)
+### [Preview]
+![demo](./Assets/demo1.gif)
 
 Copyright lans! 2021 

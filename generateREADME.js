@@ -62,7 +62,8 @@ function generateReadme(answers) {
 ### [GitHub Username]
 * ${answers.email}
 
-### [Preview](assets/demo1.gif)
+### [Preview]
+![demo](./Assets/demo1.gif)
 
 Copyright lans! 2021 
 `;
