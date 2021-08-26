@@ -63,7 +63,7 @@ function generateReadme(answers) {
 * ${answers.email}
 
 ### [Preview]
-![demo](./Assets/demo1.gif)
+![demo](./assets/demo1.gif)
 
 Copyright lans! 2021 
 `;
